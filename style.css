@@ -1,0 +1,155 @@
+.container{
+    width: 600px;
+    height: 130vh;
+    background-color: rgb(216, 204, 87);
+    margin: auto;
+    border-radius: 50px;
+    border: 2px solid ;
+   
+}
+h5{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
+h4{
+    margin-left: 20px;
+}
+h6{
+    text-align: center;
+    line-height: 16px;
+    font-size: 15px;
+    
+}
+.head h3{
+    color: rgb(235, 11, 11);
+    margin-top:10px;
+    font-size: 30px;text-align: center;
+}
+.head h1{
+    
+    text-align: center;
+    margin-top:0px;
+    text-transform: uppercase;
+    color: rgb(37, 27, 27);
+    font-size: 20px;
+}
+.head p{
+    text-align: center; 
+    text-transform: uppercase;
+    color: blue;
+}
+#input{
+    margin-left: 200px;
+    height: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+#input-btn{
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(6, 249, 6);
+    cursor:pointer;
+}
+#input-btn:hover{
+    background-color: rgb(5, 240, 5);
+    cursor: pointer;
+}
+#skilllist{
+    margin-left: 200px;
+}
+
+
+#second-input{
+    margin-left: 200px;
+    height: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+#input-btn2{
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(6, 249, 6);
+    cursor:pointer;
+}
+#input-btn2:hover{
+    background-color: rgb(5, 240, 5);
+    cursor: pointer;
+}
+#skilllist2{
+    margin-left: 200px;
+}
+/* 3rd q */
+#third-input{
+    margin-left: 200px;
+    height: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+#input-btn3{
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(6, 249, 6);
+    cursor:pointer;
+}
+#input-btn3:hover{
+    background-color: rgb(5, 240, 5);
+    cursor: pointer;
+}
+#skilllist3{
+    margin-left: 200px;
+}
+/* 4th */
+#fourth-input{
+    margin-left: 200px;
+    height: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+#input-btn4{
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(6, 249, 6);
+    cursor:pointer;
+
+}
+#input-btn4:hover{
+    background-color: rgb(5, 240, 5);
+    cursor: pointer;
+}
+#skilllist4{
+    margin-left: 200px;
+}
+
+/* 5th */
+#fifth-input{
+    margin-left: 200px;
+    height: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+#input-btn5{
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(6, 249, 6);
+    cursor:pointer;
+
+}
+#input-btn5:hover{
+    background-color: rgb(5, 240, 5);
+    cursor: pointer;
+}
+#skilllist5{
+    margin-left: 200px;
+}
+h3{
+    text-align: center;
+}
+b{
+    color: red;
+}
